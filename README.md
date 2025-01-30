@@ -2,7 +2,7 @@
 
 I'm a software engineering student currently studying at Launch School. For fun I like to lift weights, read, draw, cook... pretty much anything you can do at home!
 
-Most of my repos are based on launch school units, here's what each one is:
+Most of my repos are based on launch school units or projects, here's what each one is:
 - ls: JavaScript basics textbook problems
 - lesson_2: Small projects made with JS and readline-sync
 - JS_Exercises: More Javascript textbook exercises
