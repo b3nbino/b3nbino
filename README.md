@@ -2,7 +2,6 @@
 
 Most of my repos are based on launch school units or projects, here's what each one is:
 - glance: Small twitter/x like WIP project made using Pug, ExpressJS, Node.js, and PostgreSql
-- ls: JavaScript basics textbook problems
 - lesson_2: Small projects made with JS and readline-sync
 - JS_Exercises: More Javascript textbook exercises
 - js110: JavaScript collections practice, basically learning about arrays
@@ -17,4 +16,4 @@ Most of my repos are based on launch school units or projects, here's what each 
 - contacts-db: Updated version of Contacts project using PSQL
 - ls215: Practice using computational thinking and problem solving. Many many problems.
 - ls220: Data Structures and Algorithms (first and second passes)
-- aoc2024: My attempts at doing advent of code 2024
+- aoc2024: My attempts at doing <a href="https://adventofcode.com/"> Advent of Code </a> 2024
