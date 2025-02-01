@@ -1,8 +1,7 @@
 👋 Hey, thanks for visiting, I'm Ben!
 
-I'm a software engineering student currently studying at Launch School. For fun I like to lift weights, read, draw, cook... pretty much anything you can do at home!
-
 Most of my repos are based on launch school units or projects, here's what each one is:
+- glance: Small twitter/x like WIP project made using Pug, ExpressJS, Node.js, and PostgreSql
 - ls: JavaScript basics textbook problems
 - lesson_2: Small projects made with JS and readline-sync
 - JS_Exercises: More Javascript textbook exercises
