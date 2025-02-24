@@ -22,3 +22,4 @@ Launch School:
 - <a href="https://github.com/b3nbino/contacts-db">contacts-db</a>: Updated version of Contacts project using PSQL
 - <a href="https://github.com/b3nbino/ls215">ls215</a>: Practice using computational thinking and problem solving. Many many problems.
 - <a href="https://github.com/b3nbino/ls220">ls220</a>: Data Structures and Algorithms (first and second passes)
+- <a href="https://github.com/b3nbino/js230">js230</a>: DOM and Asynchronous Programming with JavaScript
