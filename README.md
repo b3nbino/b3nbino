@@ -3,9 +3,7 @@
 Most of my repos are based on launch school units or projects, here's what each one is:
 
 Projects:
-- <a href="https://github.com/b3nbino/glance">glance</a>: Small twitter/x like WIP project made using Pug, ExpressJS, Node.js, and PostgreSql
 - <a href="https://github.com/b3nbino/aoc2024">aoc2024</a>: My attempts at doing <a href="https://adventofcode.com/" target="_blank">Advent of Code</a> 2024
-
   
 Launch School:
 - <a href="https://github.com/b3nbino/lesson_2">lesson_2</a>: Small projects made with JS and readline-sync
@@ -23,3 +21,4 @@ Launch School:
 - <a href="https://github.com/b3nbino/ls215">ls215</a>: Practice using computational thinking and problem solving. Many many problems.
 - <a href="https://github.com/b3nbino/ls220">ls220</a>: Data Structures and Algorithms (first and second passes)
 - <a href="https://github.com/b3nbino/js230">js230</a>: DOM and Asynchronous Programming with JavaScript
+- <a href="https://github.com/b3nbino/ts240">ts240</a>: TypeScript Introduction
